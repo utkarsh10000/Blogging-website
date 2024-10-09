@@ -1,0 +1,1 @@
+export const BACKEND_URL = " https://week-13-offline.us5927060.workers.dev"
